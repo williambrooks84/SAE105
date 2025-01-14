@@ -2,9 +2,9 @@
     "title": "Venez découvrir nos autres photos !",
     "text": "Le voyage ne s'arrête pas ici !",
     "gridinfo": [
-        { "grid_name": "Irisbus Citelis 12", "grid_text": "STCL Limoges", "grid_img": "/assets/showcasel2/citelis12.jpg" },
-        { "grid_name": "Z TER / Z21500", "grid_text": "TER Rémi", "grid_img": "/assets/showcasel2/zter.jpg" },
-        { "grid_name": "Hess Swisstrolley 4", "grid_text": "STCL Limoges", "grid_img": "/assets/showcasel2/swisstrolley4.jpg" },
-        { "grid_name": "Irisbus/Renault Agora L", "grid_text": "TAO Orléans", "grid_img": "/assets/showcasel2/agoral.jpg" }
+        { "grid_name": "Irisbus Citelis 12", "grid_text": "STCL Limoges", "grid_img": "SAE105/assets/showcasel2/citelis12.jpg" },
+        { "grid_name": "Z TER / Z21500", "grid_text": "TER Rémi", "grid_img": "SAE105/assets/showcasel2/zter.jpg" },
+        { "grid_name": "Hess Swisstrolley 4", "grid_text": "STCL Limoges", "grid_img": "SAE105/assets/showcasel2/swisstrolley4.jpg" },
+        { "grid_name": "Irisbus/Renault Agora L", "grid_text": "TAO Orléans", "grid_img": "SAE105/assets/showcasel2/agoral.jpg" }
     ]
 }
