@@ -1,0 +1,70 @@
+@import url(/css/reset.css);
+@import url(/css/variables.css);
+
+.footer{
+    font-family: var(--text-font);
+    font-style: normal;
+}
+
+.footer__container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 4.81rem 7.3rem 4.25rem 7.25rem;
+}
+
+.footer__container-about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer__container-about-btn{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.625rem;
+    color: var(--color-blue-title);
+}
+
+.footer__container-about-btn:not(:first-child) {
+    margin-left: 2rem;
+}
+
+.footer__container-message{
+    display: flex;
+    flex-direction: column;
+    padding: 0 12.34rem 0 13.44rem;
+    text-align: center;
+}
+
+.footer__container-message-title{
+    font-size: 1.5rem;
+    line-height: normal;
+    letter-spacing: -0.01831rem;
+    color: var(--color-blue-title);
+}
+
+.footer__container-message-text{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.625rem;
+    color: var(--color-grey-text)
+}
+
+.footer__container-contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer__container-contacts-btn{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.625rem;
+    color: var(--color-blue-title);
+}
+
+.footer__container-contacts-btn:not(:first-child) {
+    margin-left: 2.1rem;
+}

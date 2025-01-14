@@ -1,0 +1,12 @@
+{
+    "title": "Suivez-nous dès maintenant !",
+    "btnlist": [
+        { "btn": "./assets/calltoactionv3/fa-twitter.svg"},
+        { "btn": "./assets/calltoactionv3/fa-facebook-square.svg"},
+        { "btn": "./assets/calltoactionv3/fa-pinterest-p.svg"},
+        { "btn": "./assets/calltoactionv3/fa-insta.svg"},
+        { "btn": "./assets/calltoactionv3/fa-behance.svg"},
+        { "btn": "./assets/calltoactionv3/fa-dribbble.svg"}
+    ]
+
+}

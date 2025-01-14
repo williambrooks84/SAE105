@@ -1,0 +1,10 @@
+{
+    "title": "Rejoindre l'équipe :  Pourquoi ?",
+    "text": "Voici les trois principales raisons pour vous inscrire dès maintenant :",
+    "gridinfo": [
+        { "name": "Restez Informé.e", "description": "Recevez les dernières actualités et restez à jour sur le monde des transports en commun."},
+        { "name": "Communauté Engagée", "description": "Connectez-vous avec des passionnés et échangez des idées au sein de notre communauté dynamique."},
+        { "name": "Avantages Exclusifs", "description": "Profitez de contenus premium, de concours spéciaux et d'invitations à des événements exclusifs."}
+    ]
+
+}

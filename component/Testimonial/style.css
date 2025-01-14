@@ -1,0 +1,68 @@
+@import url(/css/reset.css);
+@import url(/css/base.css);
+
+.testimonial{
+    font-family: var(--text-font);
+    font-style: normal;
+    padding: 5rem 13.44rem;
+    background-color: var(--color-white);
+}
+
+.testimonial__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testimonial__container-title{
+    margin-bottom: 2.37rem;
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+    color: var(--color-blue-title);
+}
+
+.testimonial__container-profile{
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    padding: 4.63rem 7.56rem 3.04rem 6.25rem;
+    border: 0.125rem solid var(--color-grey-boarder);
+    border-radius: 0.625rem;
+}
+
+.testimonial__container-profile-img{
+    border-radius: 4.375rem;
+    margin-right: 1.81rem;
+    width: 4.375rem;
+    height: 4.375rem;
+}
+
+.testimonial__container-profile-description-text{
+    margin-bottom: 2.59rem;
+    width: 40.625rem;
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.75rem;
+    color: var(--color-grey-text);
+}
+
+.testimonial__container-profile-description-name{
+    margin-bottom: 0.13rem;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.625rem; 
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+    color: var(--color-blue-title);
+}
+
+.testimonial__container-profile-description-brand{
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.625rem;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+    color: var(--color-grey-text);
+}

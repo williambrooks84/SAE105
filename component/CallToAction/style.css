@@ -1,0 +1,57 @@
+@import url(/css/reset.css);
+@import url(/css/base.css);
+
+.call{
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+    margin: 6.25rem 13.438rem;
+    font-family: var(--text-font);
+    font-style: normal;
+    background-color: var(--color-white);
+}
+
+.call__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    width: 60.625rem;
+    padding: 5.12rem 0;
+    font-family: var(--text-font);
+    background-color: var(--color-blue-background);
+    color: var(--color-white);
+    border-radius: 0.625rem;
+}
+
+.call__container-label{
+    margin-bottom: 0.8rem;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.625rem;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+    color: var(--color-white);
+
+}
+
+.call__container-title{
+    margin-bottom: 3.013rem;
+    font-weight: 700;
+    font-size: 2.625rem;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+    color: var(--color-white);
+}
+
+.call__container-btn{
+    padding: 1.063rem 1.813rem;
+    width: fit-content;
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.625rem;
+    color: var(--color-white);
+    background-color: var(--color-green-button);
+    border-radius: 6.25rem;
+}

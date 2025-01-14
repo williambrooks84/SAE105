@@ -1,0 +1,16 @@
+:root{
+    /*Colors*/
+    --color-blue-background: #2F1893;
+    --color-white: #FFFFFF;
+    --color-pink-hover: #E93A7D;
+    --color-green-button: #25DAC5;
+    --color-blue-title: #1E0E62;
+    --color-grey-text: rgba(21, 20, 57, 0.40);
+    --color-grey-boarder: #EBEAED;
+    --color-green-button: #25DAC5;
+    --color-purple-button: #482BE7;
+    --color-pink: #E93A7D;
+
+    /*text*/
+    --text-font: DM sans;
+}

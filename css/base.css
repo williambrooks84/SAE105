@@ -1,0 +1,22 @@
+@import './reset.css';
+@import './variables.css';
+
+@import '../component/Content/style.css';
+@import '../component/ContentL2/style.css';
+@import '../component/Hero/style.css';
+@import '../component/Navigation/style.css';
+@import '../component/CallToAction/style.css';
+@import '../component/CallToActionV2/style.css';
+@import '../component/CallToActionV3/style.css';
+@import '../component/Forms/style.css';
+@import '../component/Testimonial/style.css';
+@import '../component/TestimonialL2/style.css';
+@import '../component/Contact/style.css';
+@import '../component/ContactL2/style.css';
+@import '../component/Team/style.css';
+@import '../component/PricingTable/style.css';
+@import '../component/Features/style.css';
+@import '../component/FeaturesL2/style.css';
+@import '../component/Footer/style.css';
+@import '../component/Showcase/style.css';
+@import '../component/ShowcaseL2/style.css';

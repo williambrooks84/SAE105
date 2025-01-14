@@ -1,0 +1,48 @@
+@import url(/css/reset.css);
+@import url(/css/variables.css);
+
+.contact{
+    font-family: var(--text-font);
+    font-style: normal;
+}
+
+.contact__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6.25rem 15.94rem 6.81rem 15.94rem;
+    text-align: center;
+}
+
+.contact__container-icon{
+    width: 7.25rem;
+    height: auto;
+    margin-bottom: 4.5rem;
+}
+
+.contact__container-text{
+    margin-bottom: 0.56rem;
+    font-size: 3.625rem;
+    font-weight: 700;
+    line-height: 4.375rem;
+    letter-spacing: -0.0625rem;
+    color: var(--color-blue-title);
+}
+
+.contact__container-mail{
+    margin-bottom: 8.5rem;
+    font-size: 3.625rem;
+    font-weight: 700;
+    line-height: 4.375rem;
+    letter-spacing: -0.0625rem;
+    color: var(--color-purple-button);
+}
+
+.contact__container-btns{
+    display: flex;
+    flex-direction: row;
+}
+
+.contact__container-btns-icon:not(:last-child){
+    margin-right: 4.1rem;
+}

@@ -1,0 +1,47 @@
+@import url(/css/reset.css);
+@import url(/css/base.css);
+
+.featuresl2{
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    padding: 6.25rem 41.62rem 6.74rem 13.44rem;
+    font-family: var(--text-font);
+    font-style: normal;
+}
+
+.featuresl2__container-title{
+    margin-bottom: 1.88rem;
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+    color: var(--color-blue-title);
+}
+
+.featuresl2__container-text{
+    margin-bottom: 5.39rem;
+    font-size: 1.375rem;
+    font-weight: 500;
+    line-height: 2rem;
+    color: var(--color-grey-text);
+}
+
+.featuresl2__container-points{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 3.25rem;
+}
+
+.featuresl2__container-points-icon{
+    margin-right: 1.25rem;
+    width: 1.75rem;
+    height: auto;
+}
+
+.featuresl2__container-points-text{
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.75rem;
+    color: var(--color-blue-title);
+}

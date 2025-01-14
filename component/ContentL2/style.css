@@ -1,0 +1,42 @@
+@import url(/css/reset.css);
+@import url(/css/variables.css);
+
+.contentl2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5.94rem 18.62rem 5.31rem 13.44rem;
+    font-family: var(--text-font);
+    font-style: normal;
+    color: var(--color-white);
+    background-color: var(--color-blue-background);
+}
+
+.contentl2__icon{
+    width: 10.625rem;
+    height: 10.625rem;
+    margin-right: 3rem;
+    border-radius: 1.875rem;
+}
+
+.contentl2__text{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.contentl2__text-title{
+    margin-bottom: 1.25rem;
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+}
+
+.contentl2__text-description{
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.75rem;
+    opacity: 0.7;
+}
+

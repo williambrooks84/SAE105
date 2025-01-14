@@ -1,0 +1,71 @@
+@import url(/css/reset.css);
+@import url(/css/variables.css);
+
+.testimoniall2{
+    display: flex;
+    justify-content: center;
+    padding: 6.25rem 13.44rem 6.5rem 13.44rem;
+    font-family: var(--text-font);
+    font-style: normal;
+    background-color: var(--color-blue-title);
+}
+
+.testimoniall2__container{
+    display: flex;
+    flex-direction: column;
+}
+
+.testimoniall2__container-title{
+    margin-bottom: 2.5rem;
+    text-align: left;
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+    color: var(--color-white);
+}
+
+.testimoniall2__container-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.88rem;
+}
+
+.testimoniall2__container-grid-profile{
+    display: flex;
+    flex-direction: row;
+    width: 29.375rem;
+    padding: 2.19rem 1.75rem 1.44rem 2.19rem;
+    border-radius: 0.625rem;
+    border: 0.125rem solid var(--color-white);
+}
+
+.testimoniall2__container-grid-profile-icon{
+    margin-right: 1.88rem;
+    width: auto;
+    height: 4.375rem;
+    border-radius: 0.625rem;
+}
+
+.testimoniall2__container-grid-profile-description{
+    display: flex;
+    flex-direction: column;
+}
+
+.testimoniall2__container-grid-profile-text{
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.75rem;
+    color: var(--color-white);
+}
+
+.testimoniall2__container-grid-profile-name{
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.625rem;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+    color: var(--color-white);
+    opacity: 0.3;
+}
+

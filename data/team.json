@@ -1,0 +1,16 @@
+{
+    "title": "L'équipe",
+    "description": "Venez découvrir l'équipe qui travaille sur ce projet !",
+    "btn": "En savoir plus",
+    "profileinfo": [
+        { "name": "Emilie Dupont", "label": "Ingénieure en systèmes", "icon": "/assets/team/profils/profil1.jpg" },
+        { "name": "Vincent Lambert", "label": "Régulation de bus urbains", "icon": "/assets/team/profils/profil2.jpg" },
+        { "name": "Martin Renaud", "label": "Cheminot", "icon": "/assets/team/profils/profil3.jpg" }
+    ],
+
+    "btnicons": [
+        { "btnicon": "./assets/team/logos/fa-twitter.svg" },
+        { "btnicon": "./assets/team/logos/fa-facebook-square.svg" },
+        { "btnicon": "./assets/team/logos/fa-dribbble.svg" }
+    ]
+}

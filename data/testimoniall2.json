@@ -1,0 +1,9 @@
+{
+    "title": "Avis des utilisateurs actuels :",
+    "profileinfo": [
+        { "icon": "./assets/testimoniall2/icons/icon1.jpg", "text": "Une mine d'informations pour les passionnés de transports en commun ! Ce site offre une expérience captivante avec des articles bien rédigés, une communauté active et des mises à jour régulières. C'est devenu ma référence incontournable.", "name": "Lucas Martinez" },
+        { "icon": "./assets/testimoniall2/icons/icon2.jpg", "text": "J'adore la diversité du contenu ! Des articles détaillés aux discussions animées dans la communauté, ce site propose tout ce qu'un passionné de transports en commun pourrait souhaiter. On ressent la passion à chaque clic.", "name": "Sophia Davis" },
+        { "icon": "./assets/testimoniall2/icons/icon3.jpg", "text": "Une plateforme bien pensée et conviviale. La navigation est fluide, les articles sont intéressants, et j'apprécie particulièrement la manière dont la communauté partage sa passion. C'est devenu mon lieu de prédilection pour tout ce qui concerne les transports publics.", "name": "Alex Thompson" },
+        { "icon": "./assets/testimoniall2/icons/icon4.jpg", "text": "Ce site est une véritable pépite pour les amateurs de transports en commun. La variété du contenu, des images inspirantes aux discussions enrichissantes, en fait un lieu de rassemblement incontournable. Bravo à l'équipe pour cette excellente initiative !", "name": "Olivia Rodriguez" }
+    ]
+}

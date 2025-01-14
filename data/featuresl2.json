@@ -1,0 +1,10 @@
+{
+    "title": "Retrouvez nos photos partout !",
+    "title_text": "Peu importe la forme !",
+    "elements": [
+        { "icon": "./assets/featuresl2/icon.svg", "text": "En ligne"},
+        { "icon": "./assets/featuresl2/icon1.svg", "text": "A télécharger"},
+        { "icon": "./assets/featuresl2/icon2.svg", "text": "Dans des magazines (à venir)"}
+    ]
+    
+}

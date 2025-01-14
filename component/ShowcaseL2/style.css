@@ -1,0 +1,70 @@
+@import url(/css/reset.css);
+@import url(/css/variables.css);
+
+.showcasel2{
+    display: flex;
+    justify-content: center;
+    padding: 6.25rem 7.19rem;
+    font-family: var(--text-font);
+    font-style: normal;
+    background-color: var(--color-white);
+}
+
+.showcasel2__container{
+    display: flex;
+    flex-direction: column;
+}
+
+.showcasel2__container-title{
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+    color: var(--color-blue-title);
+}
+
+.showvasel2__container-text{
+    margin-bottom: 3.75rem;
+    text-align: center;
+    font-size: 1.375rem;
+    font-weight: 500;
+    line-height: 2rem;
+    color: var(--color-grey-text);
+}
+
+.showcasel2__container-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.88rem;
+}
+
+.testimoniall2__container-grid-section{
+    padding: 2.76rem 4.4rem 0 4.4rem;
+    border-radius: 0.625rem;
+    border: 0.125rem solid var(--color-grey-boarder);
+}
+
+.testimoniall2__container-grid-section-name{
+    margin-bottom: 0.94rem;
+    text-align: center;
+    font-size: 1.375rem;
+    font-weight: 500;
+    line-height: 2rem;
+    color: var(--color-blue-title);
+}
+
+.testimoniall2__container-grid-section-text{
+    margin-bottom: 2.43rem;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.625rem; 
+    color: var(--color-grey-text);
+}
+
+.testimoniall2__container-grid-section-img{
+    width: 26.875rem;
+    height: auto;
+}

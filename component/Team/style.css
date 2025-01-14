@@ -1,0 +1,114 @@
+@import url(/css/reset.css);
+@import url(/css/variables.css);
+
+.team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6.25rem 7.19rem;
+    font-family: var(--text-font);
+    font-style: normal;
+}
+
+.team__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team__container-head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team__container-head-title{
+    margin-bottom: 1.25rem;
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 3.25rem; 
+    letter-spacing: -0.025rem;
+    text-align: center;
+    color: var(--color-blue-title);
+}
+
+.team__container-head-description{
+    margin-bottom: 2.95rem;
+    font-size: 1.375rem;
+    font-weight: 500;
+    line-height: 2rem;
+    text-align: center;
+    color: var(--color-grey-text);
+}
+
+.team__container-head-btn{
+    padding: 0.75rem 2.12rem;
+    width: fit-content;
+    font-weight: 500;
+    font-size: 1.125rem;
+    line-height: 1.625rem;
+    color: var(--color-blue-title);
+    border: 0.125rem solid var(--color-grey-boarder);
+    border-radius: 6.25rem;
+}
+
+.team__container-people{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 4.8rem;
+}
+
+.team__container-people-profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 0.125rem solid var(--color-grey-boarder); 
+    border-radius: 0.625rem;
+}
+
+.team__container-people-profile:not(:last-child) {
+    margin-right: 1.87rem;
+}
+
+.team__container-people-profile-image{
+    margin-top: 3.12rem;
+    margin-bottom: 1.8rem;
+    width: 7.5rem;
+    height: 7.5rem;
+    border-radius: 7.5rem;
+}
+
+.team__container-people-profile-name{
+    margin-bottom: 1.8rem;
+    font-size: 1.375rem;
+    font-weight: 500;
+    text-align: center;
+    line-height: 2rem;
+    color: var(--color-blue-title);
+}
+
+.team__container-people-profile-label{
+    margin-bottom: 2.19rem;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.625rem;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;    
+    color: var(--color-grey-text);
+}
+
+.team__container-people-profile-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 0.125rem solid var(--color-grey-boarder); 
+}
+
+.team__container-people-profile-btn-link{
+    padding: 1.26rem 3.02rem 1.3rem 2.75rem;
+}
+
+.team__container-people-profile-btn-link:not(:last-child){
+    border-right: 0.125rem solid var(--color-grey-boarder); 
+}

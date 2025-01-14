@@ -1,0 +1,80 @@
+@import url(/css/reset.css);
+@import url(/css/base.css);
+
+.pricing{
+    display: flex;
+    justify-content: center;
+    padding: 6.25rem 19.68rem;
+    font-family: var(--text-font);
+    font-style: normal;
+
+}
+
+.pricing__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.pricing__container-head{
+    margin-bottom: 3.12rem;
+}
+
+.pricing__container-head-title{
+    margin-bottom: 1.25rem;
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    letter-spacing: -0.025rem;
+    color: var(--color-blue-title);
+}
+
+.pricing__container-head-subtitle{
+    font-size: 1.375rem;
+    font-weight: 500;
+    line-height: 2rem;
+    color: var(--color-grey-text);
+}
+
+.pricing__container-body{
+    padding: 2.76rem 6.62rem 3.12rem 6.62rem;
+    border-radius: 0.625rem;
+    border: 0.125rem solid var(--color-grey-boarder);
+}
+
+.pricing_container-body-label{
+    margin-bottom: 1.49rem;
+    font-size: 1.375rem;
+    font-weight: 500;
+    line-height: 2rem;
+    color: var(--color-blue-title);
+}
+
+.pricing__container-body-clients{
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.625rem;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+    color: var(--color-blue-title);
+}
+
+.pricing__container-body-text{
+    margin-bottom: 2.56rem;
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.75rem;
+    color: var(--color-grey-text);
+}
+
+.pricing__container-body-btn{
+    padding: 1.06rem 3.38rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.625rem;
+    border-radius: 6.25rem;
+    color: var(--color-white);
+    background-color: var(--color-purple-button);
+}

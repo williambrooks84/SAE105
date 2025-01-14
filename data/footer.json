@@ -1,0 +1,24 @@
+{
+    "contacts_btn": "Contacts",
+    
+    "btn_text": [
+        { "btn_text": "Paramètres"},
+        { "btn_text": "Confidentialité"},
+        { "btn_text": "Conditions"}
+    ],
+
+    "message": {
+        "title": "Passion Retro Mobilité",
+        "text": "2024. Tous droits réservés. Consultez nos mentions légales pour plus d'informations sur notre politique de confidentialité et nos conditions d'utilisation."
+    },
+
+
+    "btnicons": [
+        { "btn_img": "./assets/footer/fa-twitter.svg" },
+        { "btn_img": "./assets/footer/fa-facebook-square.svg" },
+        { "btn_img": "./assets/footer/fa-dribbble.svg" }
+    ]
+
+    
+}
+

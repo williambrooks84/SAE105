@@ -1,0 +1,15 @@
+[
+    {
+        "icon": "./assets/contact/gmail.png",
+        "text": "Si vous avez des questions, n'hésitez pas à nous contacter :",
+        "mail": "passion.retromobilite@gmail.com",
+        "btnlist": [
+            {"btn": "./assets/contact/buttons/fa-facebook-official.svg"},
+            {"btn": "./assets/contact/buttons/fa-behance.svg"},
+            {"btn": "./assets/contact/buttons/fa-pinterest.svg"},
+            {"btn": "./assets/contact/buttons/fa-dribbble.svg"},
+            {"btn": "./assets/contact/buttons/fa-slack.svg"}
+
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Maître du Code",
+        "img": "./assets/testimonial/profilepic.jpg",
+        "text": "Ladies and gentlemen, je suis ravi de vous présenter TransitTracks, l'application mobile que j'ai conçue avec passion pour tous les amateurs de transports en commun. Avec TransitTracks, nous avons créé un compagnon intelligent qui vous permet de rester à la pointe des actualités et des développements passionnants dans le monde du transport public. Cette application intuitive offre une expérience utilisateur sans faille, vous permettant de suivre les dernières nouvelles, les mises à jour de réseau, et même d'explorer des fonctionnalités interactives pour rendre votre voyage quotidien encore plus agréable. Embarquez avec TransitTracks et restez connectés à l'avenir passionnant des transports en commun.",
+        "name": "Adam Lefèvre",
+        "brand": "Développeur mobile"
+    }
+]

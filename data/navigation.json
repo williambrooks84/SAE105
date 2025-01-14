@@ -1,0 +1,12 @@
+{
+    "btn_text": [
+        { "btn_text": "Accueil", "href": "index.html" },
+        { "btn_text": "Equipe", "href": "equipe.html" },
+        { "btn_text": "Contacter", "href": "contacter.html" },
+        { "btn_text": "Composants", "href": "composants.html" }
+    ],
+    "btnicons": [
+        { "btn_img": "./assets/navigation/fa-dribbble.svg" },
+        { "btn_img": "./assets/navigation/fa-behance.svg" }
+    ]
+}
