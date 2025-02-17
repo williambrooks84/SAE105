@@ -23,4 +23,4 @@ Aucune installation requise.
 
 ---
 
-Ce projet est simple à utiliser : il suffit d’ouvrir **index.html** pour voir son fonctionnement. 🚀  
+Ce projet est simple à utiliser : il suffit d’ouvrir **index.html** pour voir son fonctionnement.
